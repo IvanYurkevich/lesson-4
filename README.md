@@ -11,4 +11,4 @@
 [AREA](https://ivanyurkevich.github.io/lesson-4/Lesson4%20AREA/index.html)
 
 
-[AREA](https://ivanyurkevich.github.io/lesson-4/Lesson%204%20frame3/index.html)
+[frame(border-image)](https://ivanyurkevich.github.io/lesson-4/Lesson%204%20frame3/index.html)
