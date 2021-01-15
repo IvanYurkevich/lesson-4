@@ -6,3 +6,6 @@
 
 
 [chess](https://github.com/IvanYurkevich/lesson-4/Lesson%204%20chess/index.html)
+
+
+[AREA](https://github.com/IvanYurkevich/lesson-4//Lesson4 AREA/index.html)
